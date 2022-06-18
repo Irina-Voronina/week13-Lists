@@ -1,0 +1,16 @@
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\bin\Debug\net5.0\ListsAndFiles.exe
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\bin\Debug\net5.0\ListsAndFiles.deps.json
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\bin\Debug\net5.0\ListsAndFiles.runtimeconfig.json
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\bin\Debug\net5.0\ListsAndFiles.runtimeconfig.dev.json
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\bin\Debug\net5.0\ListsAndFiles.dll
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\bin\Debug\net5.0\ref\ListsAndFiles.dll
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\bin\Debug\net5.0\ListsAndFiles.pdb
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\obj\Debug\net5.0\ListsAndFiles.csproj.AssemblyReference.cache
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\obj\Debug\net5.0\ListsAndFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\obj\Debug\net5.0\ListsAndFiles.AssemblyInfoInputs.cache
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\obj\Debug\net5.0\ListsAndFiles.AssemblyInfo.cs
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\obj\Debug\net5.0\ListsAndFiles.csproj.CoreCompileInputs.cache
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\obj\Debug\net5.0\ListsAndFiles.dll
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\obj\Debug\net5.0\ref\ListsAndFiles.dll
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\obj\Debug\net5.0\ListsAndFiles.pdb
+C:\Users\Irina\source\repos\Lists\ListsAndFiles\obj\Debug\net5.0\ListsAndFiles.genruntimeconfig.cache
